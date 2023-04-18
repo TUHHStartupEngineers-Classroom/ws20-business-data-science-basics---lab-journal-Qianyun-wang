@@ -36,3 +36,7 @@ vignettes/*.pdf
 *.knit.md
 
 # R Environment Variables
+.Renviron
+*.tsv
+docs/~$Patents_DB_dictionary_bulk_downloads (自动保存的).xlsx
+~$Patents_DB_dictionary_bulk_downloads (自动保存的).xlsx
